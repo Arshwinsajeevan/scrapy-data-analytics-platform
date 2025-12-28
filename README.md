@@ -49,7 +49,6 @@ data/reports/
 
 
 ## ⚙️ How to Run
-```bash
 pip install -r requirements.txt
 scrapy crawl books_spider
 scrapy crawl quotes_spider
