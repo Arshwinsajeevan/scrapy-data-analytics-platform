@@ -22,6 +22,7 @@ A Python-based data platform that extracts, stores, cleans, and analyzes structu
 - Git & GitHub
 
 ## 📂 Project Structure
+```bash
 web-data-aggregator/
 │
 ├── analytics/
@@ -33,8 +34,6 @@ web-data-aggregator/
 ├── scrapy_project/
 └── README.md
 
-markdown
-Copy code
 
 ## 📊 Reports Generated
 - Average book price
@@ -48,8 +47,6 @@ Copy code
 Reports are stored in:
 data/reports/
 
-bash
-Copy code
 
 ## ⚙️ How to Run
 ```bash
